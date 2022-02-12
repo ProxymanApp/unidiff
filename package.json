@@ -4,14 +4,14 @@
    "description": "diff with unified diff format handling",
    "main": "dist/index.js",
    "dependencies": {
-      "diff": "^2.2.2"
+      "diff": "5.0.0"
    },
    "devDependencies": {
-      "rollup": "^0.66.6",
-      "rollup-plugin-commonjs": "^9.2.0",
-      "rollup-plugin-node-resolve": "^3.4.0",
-      "rollup-plugin-terser": "^3.0.0",
-      "tape": "^4.9.1",
+      "rollup": "2.67.2",
+      "rollup-plugin-commonjs": "10.1.0",
+      "rollup-plugin-node-resolve": "5.2.0",
+      "rollup-plugin-terser": "7.0.2",
+      "tape": "5.5.1",
       "test-kit": "^2.8.7"
    },
    "repository": {
